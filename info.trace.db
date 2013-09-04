@@ -1,0 +1,8 @@
+08-26 16:53:07 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "ANIOS" no encontrada
+Table "ANIOS" not found; SQL statement:
+drop table anios [42102-172]
+08-26 16:53:20 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Tabla "ANIOS" no encontrada
+Table "ANIOS" not found; SQL statement:
+drop table anios [42102-172]
